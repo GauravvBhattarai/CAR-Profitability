@@ -19,10 +19,13 @@ The dataset includes 15 commercial banks in Nepal with financial indicators from
 # C. Methodology
 
 - Research Design: Descriptive and analytical approach using panel data regression
+
 - Models: Fixed Effects and Random Effects models with Hausman test for model selection
+  
 - Variables:
         - Dependent: Return on Equity (ROE)
         - Independent: Capital Adequacy Ratio (CAR), Advances to Assets Ratio (AAR), Government Securities to Total Investment (GSIT), Non-Performing Loans Ratio (NPL)
+  
 - Rationale of the study: Looking a few years back, from 2010 to the present, the Nepalese banking industry has experienced various reforms dedicated to enhancing operational efficiency to compete in the fast-paced international finance sector. This study aims to show the relationship between capital adequacy and profitability of the commercial bank. This research will help to understand the capital adequacy and profitability position along with understanding the existing risk-taking position of the selected commercial bank. Throughout the research, various quantitative and statistical approaches for determining the relationship between the variables will be deeply studied and interpreted. Similarly, this research will also facilitate financial institutions, potential investors and financial analysts in investment decision-making.  Since the banks generally operate in an environment with a high degree of uncertainty which results in exposure to many types of risks, this research will be helpful to minimize those risks while preventing the bank from going through financial crises that affect the national economy.
 
 # D. Findings
